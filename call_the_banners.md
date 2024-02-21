@@ -1,3 +1,5 @@
 # Call the Banners
 
-Call your friends, call your enemies, call reinforcements, and etch your name in the annals of on-chain history with a fully on-chain version of Call the Banners hosted on Starknet that is going to come soon to a Starknet node near you! Tear down those darn castle walls, tear your enemy banners while yours fly high, win fame, glory, and a pocket change worth o LORDS in the process of having fun with friends. What more could you want?
+CtB started as a simple discord game and has blossomed into a battle that has spanned 5 seasons, has a Farcaster native version called Farcastles, and we’re currently working on CtB: Onchain as part of the Realms Autonomous Worlds.
+
+While the first iteration of the game will not, future updates to the game will have provisions for Pixel Banner holders in the way of boosts and buffs to attacks, coin accruing, and more. For an idea of how we incorporated the Painted Banners into CtB: Discord, please visit [ctb.bannersnft.com](ctb.bannersnft.com).
