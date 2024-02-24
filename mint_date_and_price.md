@@ -1,6 +1,6 @@
 # Mint Date and Price
 
-A firm mint date is still TBD, but we are aiming for 1st week of March. The price is **free**!
+The mint will be a 3-phase mint, with Phase 1 starting on March 6th at 12pm UTC The price is **free**!
 
 However, you will be able to pay $LORDS to lock in traits. More on that in the following section.
 
