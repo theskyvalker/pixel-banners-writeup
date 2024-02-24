@@ -2,11 +2,19 @@
 
 The free mint will occur in phases. 
 
-- **Phase 1:** Artists & contributors to the project. (10+ mints per person, variable)
-- **Phase 2:** Painted Banner holders (10 mints per person)
-- **Phase 3:** Realms & 1337 Skull Holders (10 mints per person, doesn’t stack)
+## Phase 1 
+### March 6th, 12:00 UTC to March 7th 11:59 UTC
+- Artists & Contributors to the project (variable per person)
+- Painted Banner holders (10 mints per person)
 
-- **Phase 4:** $Lords, Ducks Everywhere, Influence, holders (5 mints per person)
-- **Phase 5 and onward:** Other SN communities will be announced, and if necessary a public mint. 
+## Phase 2
+### March 7th, 12:00 UTC to March 8th 11:59 UTC
+- Realms & 1337 Skull Holders (10 mints per person, doesn’t stack)
 
-Each phase will have a minimum of 24 hours to mint, with artists and contributors given 48 hours. We want you to take your time with the interactivity of Pixel Banners!
+## Phase 3
+### March 8th 12:00 UTC to March 9th 11:59 UTC
+- $Lords, Bloberts, Ducks Everywhere, Influence, holders (5 mints per person)
+
+## Public (based on availability): March 9th, 12pm UTC
+
+Each phase will have 24 hours to mint. We want you to take your time with the interactivity of Pixel Banners!
