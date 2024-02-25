@@ -5,7 +5,8 @@ The free mint will occur in phases.
 ## Phase 1 
 ### March 6th, 12:00 UTC to March 7th 11:59 UTC
 - Artists & Contributors to the project (variable per person)
-- Painted Banner holders (10 mints per person)
+- <a href="https://www.bannersnft.com">Painted Banner</a> holders (10 mints per person)
+*Painted Banners are still available to mint*  
 
 ## Phase 2
 ### March 7th, 12:00 UTC to March 8th 11:59 UTC
