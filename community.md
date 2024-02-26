@@ -14,7 +14,7 @@ The free mint will occur in phases.
 
 ## Phase 3
 ### March 8th 12:00 UTC to March 9th 11:59 UTC
-- $Lords, Bloberts, Ducks Everywhere, Influence, holders (5 mints per person)
+- Bloberts, Ducks Everywhere, Influence, holders (5 mints per person)
 
 ## Public (based on availability): March 9th, 12pm UTC
 
