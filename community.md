@@ -16,6 +16,6 @@ The free mint will occur in phases.
 ### TBA 12:00 UTC to TBA 11:59 UTC
 - Bloberts, Ducks Everywhere, Influence, holders (5 mints per person)
 
-## Public (based on availability): March 19th, 12pm UTC
+## Public (based on availability): TBA, 12pm UTC
 
 Each phase will have 24 hours to mint. We want you to take your time with the interactivity of Pixel Banners!
