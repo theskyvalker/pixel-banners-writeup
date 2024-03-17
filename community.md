@@ -3,17 +3,17 @@
 The free mint will occur in phases. 
 
 ## Phase 1 
-### March 16th, 12:00 UTC to March 7th 11:59 UTC
+### TBA, 12:00 UTC to TBA 11:59 UTC
 - Artists & Contributors to the project (variable per person)
 - <a href="https://www.bannersnft.com">Painted Banner</a> holders (10 mints per person)
 *Painted Banners are still available to mint*  
 
 ## Phase 2
-### March 17th, 12:00 UTC to March 8th 11:59 UTC
+### TBA, 12:00 UTC to TBA 11:59 UTC
 - Realms & 1337 Skull Holders (10 mints per person, doesn’t stack)
 
 ## Phase 3
-### March 18th 12:00 UTC to March 9th 11:59 UTC
+### TBA 12:00 UTC to TBA 11:59 UTC
 - Bloberts, Ducks Everywhere, Influence, holders (5 mints per person)
 
 ## Public (based on availability): March 19th, 12pm UTC
