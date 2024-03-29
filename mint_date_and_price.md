@@ -1,6 +1,6 @@
 # Mint Particulars
 ## Date & Time
-The mint will be a 3-phase mint, with Phase 1 starting on TBA. The price is **free**!
+The mint will be a 3-phase mint, with Phase 1 starting on 26th March 2024 12 pm UTC. The price is **free**!
 
 ## Price
 However, you will be able to pay $LORDS to lock in traits. More on that in the following section.
