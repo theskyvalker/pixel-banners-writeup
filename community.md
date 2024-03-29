@@ -18,4 +18,6 @@ The free mint will occur in phases.
 
 ## Public (based on availability): 30th March 2024, 12pm UTC and onwards
 
-Each phase will have 24 hours to mint. We want you to take your time with the interactivity of Pixel Banners!
+Each phase will have at least 24 hours to mint. We want you to take your time with the interactivity of Pixel Banners!
+
+Once the public mint opens, all whitelist tiers can stil continue to claim their whitelist mints till supply runs out.
